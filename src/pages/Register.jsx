@@ -8,7 +8,7 @@ export default function Register() {
         <form className="space-y-4">
           <input
             type="text"
-            placeholder="Nama Lengkap"
+            placeholder="Full Name"
             className="w-full px-4 py-2 border rounded-lg text-gray-900 dark:text-white dark:bg-gray-700 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-yellow-400"
           />
           <input
